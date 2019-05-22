@@ -1,6 +1,7 @@
 # Maturity Assessment?
 
- - <Insert notes here >
+ - Philosophy towards opensource https://bit.ly/2LVmBiy
+ 
 
 
 # OSPO - Strategy
